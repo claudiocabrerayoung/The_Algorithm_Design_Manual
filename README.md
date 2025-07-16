@@ -5,8 +5,11 @@ Each solution follows FAANG-level standards, with an emphasis on:
 ✅ Algorithmic clarity & optimal design
 
 ✅ Modular, reusable code (PEP 8 & type hints)
+
 ✅ Detailed time & space complexity analysis
+
 ✅ Unit-testable structure with edge-case coverage
+
 ✅ Educational commentary for learning & interviews
 
 The repository is organized by chapter, allowing easy navigation through the book’s structure.
