@@ -1,2 +1,12 @@
 # The_Algorithm_Design_Manual
-"Professional Python solutions to all problems from Steven Skiena’s The Algorithm Design Manual. FAANG-level code quality: PEP 8, type hints, modular design, complexity analysis, and full testing, organized by chapter for learning and interview prep
+This repository contains professional, best-practices Python implementations of all problems from Steven S. Skiena’s The Algorithm Design Manual (2020).
+Each solution follows FAANG-level standards, with an emphasis on:
+
+✅ Algorithmic clarity & optimal design
+✅ Modular, reusable code (PEP 8 & type hints)
+✅ Detailed time & space complexity analysis
+✅ Unit-testable structure with edge-case coverage
+✅ Educational commentary for learning & interviews
+
+The repository is organized by chapter, allowing easy navigation through the book’s structure.
+
