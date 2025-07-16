@@ -2,7 +2,8 @@
 This repository contains professional, best-practices Python implementations of all problems from Steven S. Skiena’s The Algorithm Design Manual (2020).
 Each solution follows FAANG-level standards, with an emphasis on:
 
-✅ Algorithmic clarity & optimal design \\
+✅ Algorithmic clarity & optimal design
+
 ✅ Modular, reusable code (PEP 8 & type hints)
 ✅ Detailed time & space complexity analysis
 ✅ Unit-testable structure with edge-case coverage
